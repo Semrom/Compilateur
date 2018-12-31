@@ -9,6 +9,6 @@ Le projet est conçu dans le cadre des cours de compilation. L'objectif est d'im
 
 Mon coéquipier : Rémi SOULIER
 
-Plus d'informations : http://semrom.fr/projets/compilateur.php
+Plus d'informations : https://semrom.fr/projets/compilateur.php
 
 Romain Semler ©2016
