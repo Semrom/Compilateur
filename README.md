@@ -5,7 +5,9 @@ Au cas où vous devez réaliser un projet similaire, sachez que les fichiers de 
 ## Le projet
 Ce projet, en binôme, a été réalisé en 2016 à la faculté des sciences d'Aix-Marseille sur le site d'Aix-Montperrin.
 
-Le projet est conçu dans le cadre des cours de compilation. L'objectif est d'implémenter à l'aide du langage C, un compilateur pour lire et interpréter un langage inventé pour le projet : le langage L.
+Le projet est conçu dans le cadre des cours de compilation. L'objectif est d'implémenter à l'aide du langage C, un compilateur pour lire et interpréter un langage inventé pour le projet : le langage L.   
+
+Le dossier "test" contient tous les fichiers nécessaires pour tester le fonctionnement de notre compilateur.
 
 Mon coéquipier : Rémi SOULIER
 
