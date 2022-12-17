@@ -11,6 +11,6 @@ Le dossier "test" contient tous les fichiers nécessaires pour tester le fonctio
 
 Mon coéquipier : Rémi SOULIER
 
-Plus d'informations : https://romain-semler.fr/projets/compilateur.php
+Plus d'informations : https://romain-semler.fr/projets-universitaires/compilateur.php
 
 Romain Semler ©2016
